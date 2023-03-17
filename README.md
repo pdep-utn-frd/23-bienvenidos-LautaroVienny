@@ -6,6 +6,6 @@ ___
 ___
 ### Información Personal:
 
--Soy de la ciudad de Baradero
--Tengo 23 años
--En mi tiempo libre me gusta ver series o peliculas, mirar fútbol o jugar videojuegos
+- Soy de la ciudad de Baradero
+- Tengo 23 años
+- En mi tiempo libre me gusta ver series o peliculas, mirar fútbol o jugar videojuegos
